@@ -21,9 +21,9 @@
     "eslint": "^5.12.1"
   },
   "dependencies": {
-    "@snyk/nodejs-runtime-agent": "^1.46.0",
+    "@snyk/nodejs-runtime-agent": "^1.46.1",
     "debug": "^4.1.1",
-    "st": "^0.1.0",
+    "st": "^1.2.2",
     "uuid-validate": "0.0.3"
   },
   "publishConfig": {
