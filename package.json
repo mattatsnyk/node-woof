@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@snyk/nodejs-runtime-agent": "^1.46.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "st": "^1.2.2",
     "uuid-validate": "0.0.3"
   },
